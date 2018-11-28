@@ -1,6 +1,6 @@
 /*!
  * Hook: 0.0.1
- * Author: wangqingzhu
+ * Author: zhusf
  * Namespace: window.Hook
  * (t) 2018-9-28
  */
